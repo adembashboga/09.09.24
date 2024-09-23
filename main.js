@@ -1,1 +1,0 @@
-document.write("Adem Bashboga <br> 17 years old <br> I study at IT Step <br> I'm keen on martial arts");
